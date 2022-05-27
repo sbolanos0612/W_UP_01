@@ -29,9 +29,9 @@ $H_A$: The average number of pushups done by line players is statistically diffe
 
 # Methods
 
-<!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
-Position is categorical variable. Push-ups is a numerical variable. I will do an analysis that explains push-ups based on position.
+Positions are a categorical variable. Push ups is a numerical variable. I will do an analysis that explains push ups based on position.
 
+<!--Decide on your methods: use "variable analysis" or other appropriate descriptors. Make sure to choose at least one graphical method and at least one numerical method.!-->
 
 # Results
 
@@ -49,7 +49,10 @@ boxplot(pushups~position,data=mydata)
 There are push-ups on the y-axis of the box plot, than there are on the x-axis. On the box plot there is a large segment on each whisker plot. The average push-ups for the positions appears to be different. The skill position appears to do more push-ups based off of the y-axis(push-ups)
 
 ### Numerical Descriptive Results
-COME BACK
+
+*ERROR IN FAV STATS UNABLE TO SUMBIT CHART
+
+The median for both positions is different. It appears the median for the skill is much higher, it is higher by 33. The maximum amount of push ups someone could do in the line position was 34. While in the skill position, it was 108 push ups. A differense of 74 push ups. So far, it show the skill players are capable of doing more push ups than the line players. The mean for the skill players was an average of 33 more push up than the line players.
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
