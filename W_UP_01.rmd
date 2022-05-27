@@ -66,5 +66,7 @@ The alternative hypothesis is shown which states "true difference in means betwe
 
 # Discussion and Conclusion
 
+Based on the original question being who could do more push ups Line or Skill players under a specific amount of time given. Using a box plot and table it provided percentages and values comparing the push ups completed in a specific amount of time between the line and skill players. Basing our answer on the numerical descriptive results and the inferential results, it shows that Skill position players were able to do more push ups than Line position players could. The median and average was higher for Skill players. Concluding that Skill players completed more push ups than the line players in a timed matter.
+
 <!--Discussion and conclusion here. If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason. Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
